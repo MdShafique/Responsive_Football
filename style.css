@@ -145,13 +145,6 @@ body{
     align-items: center;
     margin-top: 150px;
 }
-/* @media (max-width: 668px) {
-    .footer-area{
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        width: auto;
-    }
-} */
 .top-footer{
     text-align: center;
 }
